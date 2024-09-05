@@ -12,7 +12,7 @@
   score:0.93512    
   rank: 693/14830  
 
-### <train bert>
+### ---train bert---
   (1). 空格拆分数字表示的字符，去重构建词表，添加特殊字符；  
   (2). 训练tokenizer;  
   (3). 训练bert.  
